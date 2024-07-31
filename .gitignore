@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Environment files
-config.env
+/backend/config.env
 
 # Node modules
 node_modules
